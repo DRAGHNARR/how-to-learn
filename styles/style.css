@@ -262,6 +262,10 @@
   color: black;
   z-index: 2;
 }
+  
+.feynman__link:hover {
+  color: red;
+}
 
 /* kaufman */
 
