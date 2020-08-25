@@ -1,0 +1,17 @@
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: normal;
+  text-decoration: none;
+  color: black;
+  z-index: 2;
+}
+  
+.feynman__link:hover {
+  color: red; /* дрп задание с первой лабы */
+  opacity: 0.5;
+  transition: opacity 1s linear;
+}
